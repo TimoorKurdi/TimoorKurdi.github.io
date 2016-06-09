@@ -352,34 +352,9 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-img#getfit {
+img.site-img {
     width: 400px;
-    height: 300px;
-}
-
-img#eventalist {
-    width: 400px;
-    height: 300px;
-}
-
-img#k10plus {
-    width: 405px;
-    height: 325px;
-}
-
-img#abgllaw {
-    width: 405px;
-    height: 325px;
-}
-
-img#leadserve {
-    width: 400px;
-    height: 300px;
-}
-
-img#leadservetwo {
-    width: 400px;
-    height: 300px;
+    height: 230px;
 }
 
 #contact {
